@@ -1,0 +1,1 @@
+The routing is all done in the app/routing.php.
